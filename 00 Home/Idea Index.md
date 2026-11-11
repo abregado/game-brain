@@ -1,6 +1,10 @@
 ---
 type: index
 ---
+# Currently on my mind
+Kalifax Coop 4x
+Rhombus Narrative Killteam
+Blueberry Pipefarm
 
 # Idea Index
 
