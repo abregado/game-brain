@@ -2,9 +2,10 @@
 type: index
 ---
 # Currently on my mind
-Kalifax Coop 4x
+[[Kalifax Coop 4x]]
 Rhombus Narrative Killteam
-Blueberry Pipefarm
+[[Project Blueberry Farming OWSC Multiplayer]]
+
 
 # Idea Index
 
