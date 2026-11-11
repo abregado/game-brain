@@ -115,5 +115,29 @@ eg:// The S'sslark species is the best at building fleets, but they have a restr
 ## Assumed alliances
 It is assumed that the major powers of the universe are allied with each others. There are no direct player versus player actions. if the game has a victory condition, it requires all players to have achieved their role victory condition. If the game is a survival game, then if any player suffers its lose condition, then the game is lost.
 
-## Early/Mid/late Game and Progression
-The game requires a sense of progression, both in power level and in difficulty. What should not have progression is the complexity of gameplay. The type of gameplay can shift over the course of a single campaign, but the complexity should not
+## Progression
+The game requires a sense of progression, both in power level and in difficulty. What should not have progression is the complexity of gameplay. The type of gameplay can shift over the course of a single campaign, but the complexity should not.
+
+### Early game
+At the start of the campaign players should be focusing on cataloguing what the generator has given them, sorting blocks into regions and planning what the best arrangement looks like. The biggest risk should be in players falling into an influence imbalance, which would cause events that spiral them into a fail state, or cause them to focus on rebalancing, which might cost them the mid game.
+
+The players are also setting up deep space exploration targets, to generate virgin territory to exploit in the mid game.
+
+Certain roles will have early game tasks they need to complete, and may have to rely on other players to complete some of the basic tasks for them.
+
+### Mid game
+In the mid game, players begin exploiting virgin territory, and focus on disseminating their bonuses to the other players. Based on the early game build up and the shape of the map, players will need to decide on and commit to a group strategy.
+
+Here events begin to cause friction, disallowing the players from making the most optimal choices for economic growth. 
+
+### End game
+The difficulty ramps up and the role based goals become urgent and all encompassing. Focus is on these special role tasks. Every player should have built up a suitable economy to complete their objective already. Now it is about burning your economy enough that you stay ahead, and not enough that it falls apart. Group play becomes once again about Influence and staying in balance as you all burn your economies down to overcome the final crisis'.
+
+## How is content packaged?
+The "opponents" in the game are paired with a role which is the solution to that opponent. This is a set of actions, abilities, assets, and events.
+
+Species add flair to a particular role by adding another set of actions, abilities, assets, and events. Species variations should be developed via events, rather than be discreet starting game options.
+
+I don't think that a configurable map generator is needed for variation. Map sizes are can be controlled by player count. Players wanting "a bigger map to paint" can take more roles than the others, which will give them more space to work with and a "larger" map border (blessing + curse).
+
+If this was a steam workshop, then Species would be a straightforward workshop mod that people could offer. Roles are more complex and would require new game mechanics to be interesting and different enough.
