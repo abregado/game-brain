@@ -44,35 +44,35 @@ How much time and thought each idea has had. **Score** = words in main docs ÷ 1
 
 ## Idea themes (collections of many smaller ideas)
 
-| # | Hub | Theme | Score | Main docs | Mentions | Words | Active | Years | Furthest status |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | [[D&D Homebrew\|D&D Homebrew]] | D&D | 157.8 | 38 | 43 | 45,340 | 2013–2026 | 10 | played/used |
-| 2 | [[D&D One-shots\|D&D One-shots]] | D&D | 121.0 | 28 | 14 | 47,467 | 2019–2025 | 7 | played/used |
-| 3 | [[EVE-like Player Economy\|EVE-like Player Economy]] | Space Sims, Trading & MMO Economies | 94.7 | 20 | 21 | 29,204 | 2011–2026 | 10 | played/used |
-| 4 | [[Shooters & FPS\|Shooters & FPS]] | Shooters & Action | 94.1 | 26 | 13 | 17,613 | 2012–2026 | 12 | played/used |
-| 5 | [[Playdate & Small Games\|Playdate & Small Games]] | Small, Mobile & Casual | 80.7 | 20 | 12 | 18,162 | 2013–2026 | 11 | prototyped |
-| 6 | [[Game Business & Funding\|Game Business & Funding]] | Business & Funding | 80.3 | 21 | 26 | 8,829 | 2012–2026 | 11 | built/shipped |
-| 7 | [[Non-Game Projects\|Non-Game Projects]] | Non-Game Ideas | 75.3 | 24 | 5 | 8,271 | 2013–2026 | 11 | prototyped |
-| 8 | [[Elite-like Space Flight & Trading\|Elite-like Space Flight & Trading]] | Space Sims, Trading & MMO Economies | 72.2 | 17 | 10 | 15,210 | 2011–2026 | 12 | played/used |
-| 9 | [[City & Colony Builders\|City & Colony Builders]] | Builders, Colonies & Sandboxes | 71.7 | 18 | 13 | 12,693 | 2011–2026 | 11 | prototyped |
-| 10 | [[Factorio mods & ideas\|Factorio mods & ideas]] | Factories & Automation | 70.3 | 17 | 6 | 18,285 | 2015–2024 | 10 | built/shipped |
-| 11 | [[Game Jams\|Game Jams]] | Projects I Made | 69.1 | 20 | 7 | 7,591 | 2012–2026 | 12 | played/used |
-| 12 | [[Narrative & Story Games\|Narrative & Story Games]] | Narrative & Worldbuilding | 59.0 | 16 | 4 | 11,548 | 2012–2026 | 9 | designed |
-| 13 | [[Minecraft & Voxel Building\|Minecraft & Voxel Building]] | Builders, Colonies & Sandboxes | 51.8 | 11 | 9 | 8,785 | 2013–2026 | 11 | prototyped |
-| 14 | [[Other Wargames\|Other Wargames]] | Wargames | 49.1 | 12 | 10 | 8,067 | 2012–2026 | 8 | prototyped |
-| 15 | [[RTS Ideas\|RTS Ideas]] | Tower Defense & RTS | 47.4 | 13 | 12 | 3,362 | 2011–2026 | 8 | played/used |
-| 16 | [[Board & Card Games\|Board & Card Games]] | Board & Card Games | 42.3 | 11 | 3 | 8,267 | 2011–2026 | 7 | built/shipped |
-| 17 | [[Other RPGs (FATE, Cypher, etc.)\|Other RPGs (FATE, Cypher, etc.)]] | Other RPGs | 41.5 | 10 | 2 | 14,482 | 2013–2024 | 4 | designed |
-| 18 | [[Stellaris mods\|Stellaris mods]] | Space Strategy & 4X | 38.0 | 12 | 4 | 5,965 | 2021–2025 | 4 | designed |
-| 19 | [[Couch Co-op & Party Games\|Couch Co-op & Party Games]] | Couch & Party Co-op | 36.5 | 9 | 5 | 4,008 | 2013–2026 | 8 | prototyped |
-| 20 | [[Tower Defense\|Tower Defense]] | Tower Defense & RTS | 33.9 | 6 | 10 | 3,430 | 2012–2026 | 9 | played/used |
-| 21 | [[Roguelikes & 7DRL\|Roguelikes & 7DRL]] | Dungeon Crawlers & Roguelikes | 29.5 | 6 | 1 | 7,977 | 2013–2026 | 6 | designed |
-| 22 | [[Industry & Production Games\|Industry & Production Games]] | Factories & Automation | 28.0 | 6 | 6 | 4,022 | 2013–2025 | 6 | designed |
-| 23 | [[Dwarf Fortress mods\|Dwarf Fortress mods]] | Factories & Automation | 27.0 | 6 | 4 | 5,539 | 2012–2024 | 5 | prototyped |
-| 24 | [[Wikiverse & Worldbuilding\|Wikiverse & Worldbuilding]] | Narrative & Worldbuilding | 24.7 | 8 | 0 | 4,177 | 2013–2020 | 3 | designed |
-| 25 | [[Dungeon Crawlers\|Dungeon Crawlers]] | Dungeon Crawlers & Roguelikes | 24.1 | 6 | 1 | 2,559 | 2013–2026 | 6 | prototyped |
-| 26 | [[Pocket Monster Games\|Pocket Monster Games]] | Small, Mobile & Casual | 23.9 | 5 | 5 | 2,363 | 2016–2026 | 6 | played/used |
-| 27 | [[Star Ruler mods\|Star Ruler mods]] | Space Strategy & 4X | 18.1 | 5 | 2 | 4,080 | 2011–2013 | 2 | designed |
-| 28 | [[Farming Games\|Farming Games]] | Builders, Colonies & Sandboxes | 16.6 | 3 | 2 | 2,060 | 2013–2022 | 5 | played/used |
-| 29 | [[Mech Games (video)\|Mech Games (video)]] | Shooters & Action | 15.2 | 3 | 2 | 707 | 2013–2026 | 5 | designed |
-| 30 | [[Barotrauma mods\|Barotrauma mods]] | Space Stations & Crew Co-op | 9.9 | 3 | 0 | 2,422 | 2023–2023 | 1 | played/used |
+| #   | Hub                                                                      | Theme                               | Score | Main docs | Mentions | Words  | Active    | Years | Furthest status |
+| --- | ------------------------------------------------------------------------ | ----------------------------------- | ----- | --------- | -------- | ------ | --------- | ----- | --------------- |
+| 1   | [[D&D Homebrew\|D&D Homebrew]]                                           | D&D                                 | 157.8 | 38        | 43       | 45,340 | 2013–2026 | 10    | played/used     |
+| 2   | [[D&D One-shots\|D&D One-shots]]                                         | D&D                                 | 121.0 | 28        | 14       | 47,467 | 2019–2025 | 7     | played/used     |
+| 3   | [[EVE-like Player Economy\|EVE-like Player Economy]]                     | Space Sims, Trading & MMO Economies | 94.7  | 20        | 21       | 29,204 | 2011–2026 | 10    | played/used     |
+| 4   | [[Shooters & FPS\|Shooters & FPS]]                                       | Shooters & Action                   | 94.1  | 26        | 13       | 17,613 | 2012–2026 | 12    | played/used     |
+| 5   | [[Playdate & Small Games\|Playdate & Small Games]]                       | Small, Mobile & Casual              | 80.7  | 20        | 12       | 18,162 | 2013–2026 | 11    | prototyped      |
+| 6   | [[Game Business & Funding\|Game Business & Funding]]                     | Business & Funding                  | 80.3  | 21        | 26       | 8,829  | 2012–2026 | 11    | built/shipped   |
+| 7   | [[Non-Game Projects\|Non-Game Projects]]                                 | Non-Game Ideas                      | 75.3  | 24        | 5        | 8,271  | 2013–2026 | 11    | prototyped      |
+| 8   | [[Elite-like Space Flight & Trading\|Elite-like Space Flight & Trading]] | Space Sims, Trading & MMO Economies | 72.2  | 17        | 10       | 15,210 | 2011–2026 | 12    | played/used     |
+| 9   | [[City & Colony Builders\|City & Colony Builders]]                       | Builders, Colonies & Sandboxes      | 71.7  | 18        | 13       | 12,693 | 2011–2026 | 11    | prototyped      |
+| 10  | [[Factorio mods & ideas\|Factorio mods & ideas]]                         | Factories & Automation              | 70.3  | 17        | 6        | 18,285 | 2015–2024 | 10    | built/shipped   |
+| 11  | [[Game Jams\|Game Jams]]                                                 | Projects I Made                     | 69.1  | 20        | 7        | 7,591  | 2012–2026 | 12    | played/used     |
+| 12  | [[Narrative & Story Games\|Narrative & Story Games]]                     | Narrative & Worldbuilding           | 59.0  | 16        | 4        | 11,548 | 2012–2026 | 9     | designed        |
+| 13  | [[Minecraft & Voxel Building\|Minecraft & Voxel Building]]               | Builders, Colonies & Sandboxes      | 51.8  | 11        | 9        | 8,785  | 2013–2026 | 11    | prototyped      |
+| 14  | [[Other Wargames\|Other Wargames]]                                       | Wargames                            | 49.1  | 12        | 10       | 8,067  | 2012–2026 | 8     | prototyped      |
+| 15  | [[RTS Ideas\|RTS Ideas]]                                                 | Tower Defense & RTS                 | 47.4  | 13        | 12       | 3,362  | 2011–2026 | 8     | played/used     |
+| 16  | [[Board & Card Games\|Board & Card Games]]                               | Board & Card Games                  | 42.3  | 11        | 3        | 8,267  | 2011–2026 | 7     | built/shipped   |
+| 17  | [[Other RPGs (FATE, Cypher, etc.)\|Other RPGs (FATE, Cypher, etc.)]]     | Other RPGs                          | 41.5  | 10        | 2        | 14,482 | 2013–2024 | 4     | designed        |
+| 18  | [[Stellaris mods\|Stellaris mods]]                                       | Space Strategy & 4X                 | 38.0  | 12        | 4        | 5,965  | 2021–2025 | 4     | designed        |
+| 19  | [[Couch Co-op & Party Games\|Couch Co-op & Party Games]]                 | Couch & Party Co-op                 | 36.5  | 9         | 5        | 4,008  | 2013–2026 | 8     | prototyped      |
+| 20  | [[Tower Defense\|Tower Defense]]                                         | Tower Defense & RTS                 | 33.9  | 6         | 10       | 3,430  | 2012–2026 | 9     | played/used     |
+| 21  | [[Roguelikes & 7DRL\|Roguelikes & 7DRL]]                                 | Dungeon Crawlers & Roguelikes       | 29.5  | 6         | 1        | 7,977  | 2013–2026 | 6     | designed        |
+| 22  | [[Industry & Production Games\|Industry & Production Games]]             | Factories & Automation              | 28.0  | 6         | 6        | 4,022  | 2013–2025 | 6     | designed        |
+| 23  | [[Dwarf Fortress mods\|Dwarf Fortress mods]]                             | Factories & Automation              | 27.0  | 6         | 4        | 5,539  | 2012–2024 | 5     | prototyped      |
+| 24  | [[Wikiverse & Worldbuilding\|Wikiverse & Worldbuilding]]                 | Narrative & Worldbuilding           | 24.7  | 8         | 0        | 4,177  | 2013–2020 | 3     | designed        |
+| 25  | [[Dungeon Crawlers\|Dungeon Crawlers]]                                   | Dungeon Crawlers & Roguelikes       | 24.1  | 6         | 1        | 2,559  | 2013–2026 | 6     | prototyped      |
+| 26  | [[Pocket Monster Games\|Pocket Monster Games]]                           | Small, Mobile & Casual              | 23.9  | 5         | 5        | 2,363  | 2016–2026 | 6     | played/used     |
+| 27  | [[Star Ruler mods\|Star Ruler mods]]                                     | Space Strategy & 4X                 | 18.1  | 5         | 2        | 4,080  | 2011–2013 | 2     | designed        |
+| 28  | [[Farming Games\|Farming Games]]                                         | Builders, Colonies & Sandboxes      | 16.6  | 3         | 2        | 2,060  | 2013–2022 | 5     | played/used     |
+| 29  | [[Mech Games (video)\|Mech Games (video)]]                               | Shooters & Action                   | 15.2  | 3         | 2        | 707    | 2013–2026 | 5     | designed        |
+| 30  | [[Barotrauma mods\|Barotrauma mods]]                                     | Space Stations & Crew Co-op         | 9.9   | 3         | 0        | 2,422  | 2023–2023 | 1     | played/used     |

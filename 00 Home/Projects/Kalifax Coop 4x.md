@@ -54,6 +54,8 @@ The important part of the game is managing the border regions you share with oth
 ### Moving parts
 But what does the player interact with and move around during the Management Phase?
 
+**Starlane nodes**. Probably the biggest difference from other 4x's i played. You slowly mutate the star lane arrangement to get the most out of the systems in your empire. Their placement also effects other empires.
+
 **Assets**. These represent powerful objects or people. They can be "consumed" for a turn by an event. They can be stolen and traded between players.
 
 **Fleet Power**. Ships are not controlled individually. Instead players set priority for deployment and they move around on their own. They are represented in a continuous, numerical way, rather than "X number of ships of type Y at location Z". Fleet combat is not the goal of the game, nor the focus. Fleet power is distributed amongst an empires Fronts.
