@@ -194,5 +194,6 @@ Webbed/Retrained: You cannot move while you have this wound.
 ## Everything turns to drones
 After a group is wiped out, flip its encounter card.
 For every flipped card, roll reinforcements to spawn Drones.
+If you cant place a drone, increase the security level
 This continues until the mission is complete.
 
